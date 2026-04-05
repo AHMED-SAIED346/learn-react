@@ -123,6 +123,7 @@
 function App() {
   return (
     <section>
+      <h2>Ahmed</h2>
       <h1 className="Aly">أهلاً بك في أول مشروع ريأكت!</h1>
     </section>
   )
